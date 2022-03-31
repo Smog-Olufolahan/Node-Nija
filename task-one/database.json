@@ -1,0 +1,60 @@
+[
+  {
+    "organization": "Decagon",
+    "id": 1,
+    "createdAt": "2022-03-30T20:32:54.487Z"
+  },
+  {
+    "organization": "Andela",
+    "products": [
+      "Node.js",
+      "Java",
+      "Goland"
+    ],
+    "id": 4,
+    "createdAt": "2022-03-30T20:38:57.063Z"
+  },
+  {
+    "organization": "Andela",
+    "products": [
+      "Node.js",
+      "Java",
+      "Goland",
+      "Python"
+    ],
+    "id": 4,
+    "createdAt": "2022-03-30T20:38:57.063Z",
+    "updatedAt": "2022-03-30T20:46:41.086Z"
+  },
+  {
+    "organization": "Andela",
+    "name": "Smog Olufolahan",
+    "products": [
+      "Node.js",
+      "Java",
+      "Goland",
+      "Python"
+    ],
+    "id": 4,
+    "createdAt": "2022-03-30T23:59:35.294Z"
+  },
+  {
+    "organization": "Decadev",
+    "id": 1,
+    "createdAt": "2022-03-30T20:32:54.487Z",
+    "updatedAt": "2022-03-31T19:28:00.412Z"
+  },
+  {
+    "organization": "Decadev",
+    "name": "Smog Olufolahan",
+    "products": [
+      "Node.js",
+      "Java",
+      "Goland",
+      "Python"
+    ],
+    "id": 4,
+    "createdAt": "2022-03-30T20:32:54.487Z",
+    "updatedAt": "2022-03-31T19:30:36.361Z"
+  }
+]
